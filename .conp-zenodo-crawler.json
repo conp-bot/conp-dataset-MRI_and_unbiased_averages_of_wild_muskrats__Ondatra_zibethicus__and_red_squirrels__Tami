@@ -1,7 +1,12 @@
 {
     "zenodo": {
         "concept_doi": "3687253",
-        "version": "368754"
+        "version": "3687254"
     },
+    "private_files": {
+        "archive_links": [],
+        "files": []
+    },
+    "restricted": false,
     "title": "MRI and unbiased averages of wild muskrats (Ondatra zibethicus) and red squirrels (Tamiasciurus hudsonicus)"
 }
