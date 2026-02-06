@@ -32,6 +32,7 @@
             },
             "access": {
                 "landingPage": "https://zenodo.org/record/3687254",
+                "accessURL": "https://zenodo.org/api/records/3687254/files/data_release.zip/content",
                 "authorizations": [
                     {
                         "value": "public"
